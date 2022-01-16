@@ -10,7 +10,8 @@ This repository contains:
 
 Disclaimer: 
 1) The tool connected to the end effector of the robot has to be adjusted using the move geometry tool because iniitially it is set with respect to flange:
-![image](https://user-images.githubusercontent.com/97818701/149647298-5eeba366-77a4-4d0f-b4cd-049567dc138e.png)
+![image]
+(https://user-images.githubusercontent.com/97818701/149647298-5eeba366-77a4-4d0f-b4cd-049567dc138e.png)
 2) Website to convert SVG to XY coordinates:
 https://spotify.github.io/coordinator/
   !!! Make sure to mirror the JPEG file horizontally before converting to SVG format
