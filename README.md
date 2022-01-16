@@ -13,4 +13,5 @@ Disclaimer:
 2) Website to convert SVG to XY coordinates:
 https://spotify.github.io/coordinator/
 Make sure to mirror the JPEG file horizontally before converting to SVG format
+3) Simulation and tutorial : https://youtu.be/JVU8jokZqIA
   
